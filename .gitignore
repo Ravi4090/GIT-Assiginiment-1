@@ -1,3 +1,5 @@
 *.class
 *.project
-*.settings
+*.setting
+
+s
